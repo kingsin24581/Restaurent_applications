@@ -1,18 +1,42 @@
 {
   "posts": [
     {
-      "id": 1,
-      "name": "arayan hotel 1",
-      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
-      "email": "sdfaf@gmail.com",
-      "services": "chai , samosa",
-      "mobile": 7845581125
-    },
-    {
       "id": 2,
       "name": "selection",
       "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
       "email": "selection@abc.com",
+      "services": "chai",
+      "mobile": 78941252511
+    },
+    {
+      "id": 3,
+      "name": "g star",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "g_star@abc.com",
+      "services": "chai",
+      "mobile": 57375375072
+    },
+    {
+      "id": 2,
+      "name": "lommo g",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "lommo_g@abc.com",
+      "services": "chai",
+      "mobile": 78941252511
+    },
+    {
+      "id": 4,
+      "name": "mologo g",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "mologo_g@abc.com",
+      "services": "chai",
+      "mobile": 78941252511
+    },
+    {
+      "id": 5,
+      "name": "bbbb bab",
+      "address": "GOBINDAPUR , KAILASHAHAR , UNAKOTI TRIPURA",
+      "email": "bbbb_bab@abc.com",
       "services": "chai",
       "mobile": 78941252511
     }
@@ -31,6 +55,13 @@
       "mobile": 3164631649,
       "password": "passowrd@123",
       "id": 2
+    },
+    {
+      "name": "aomsin",
+      "email": "kingsin24581@gmail.com",
+      "mobile": 823846555,
+      "password": "1234",
+      "id": 3
     }
   ],
   "comments": [],
