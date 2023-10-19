@@ -25,5 +25,6 @@ import { SignupComponent } from './signup/signup.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
+  
 })
 export class AppModule { }

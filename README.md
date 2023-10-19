@@ -10,7 +10,7 @@ https://github.com/sibashish99/Restaurent_Application.git
 
 ## Install node modules
 ```
-npm install
+npm installs
 
 ```
 

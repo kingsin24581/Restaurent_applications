@@ -5,4 +5,5 @@ export class RestaurentData {
     email: string = '';
     services: string = '';
     mobile: number = 0;
+    
 }

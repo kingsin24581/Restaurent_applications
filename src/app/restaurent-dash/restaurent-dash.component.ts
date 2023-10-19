@@ -57,6 +57,7 @@ export class RestaurentDashComponent implements OnInit {
       alert("Restaurent Added Failed!");
     })
   }
+  
 
   getAllData(){
     this.api.getRestaurent().subscribe(res => {
